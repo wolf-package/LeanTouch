@@ -1,8 +1,8 @@
 ## How To Install
 
-### Add the lines below to `Packages/manifest.json`
+### Add the line below to `Packages/manifest.json`
 
-for version `x.x.x`
+for version `1.0.0`
 ```csharp
-"com.virtuesky._package_name_":"https://github.com/VirtueSky/_package_name_.git#x.x.x",
+"com.wolf-package.leantouch":"https://github.com/wolf-package/LeanTouch.git#1.0.0",
 ```
